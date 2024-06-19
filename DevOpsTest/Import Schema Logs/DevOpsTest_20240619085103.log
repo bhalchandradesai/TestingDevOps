@@ -1,0 +1,10 @@
+2024-06-19 2:21:03 PM	This log contains information about the import schema operation into project 'DevOpsTest' on computer 'INLT02-BHALCHAN' by user 'BhalchandraDesai'.
+2024-06-19 2:21:03 PM	Deserializing model
+2024-06-19 2:21:03 PM	Resolving model
+2024-06-19 2:21:03 PM	Visiting imported model for types
+2024-06-19 2:21:03 PM	Scanning project for duplicate elements
+2024-06-19 2:21:03 PM	Finished duplicate element processing
+2024-06-19 2:21:04 PM	Processing extra files
+2024-06-19 2:21:04 PM	Finished importing Data-tier Application file.
+2024-06-19 2:21:04 PM	A summary of the import was saved to the following location: C:\Users\BhalchandraDesai\OneDrive - Assetsoft\Bhalchandra\DevOps\Azure DevOps1\DevOpsTest\Import Schema Logs\DevOpsTest_20240619085103.log
+2024-06-19 2:21:04 PM	Click Finish to continue...
